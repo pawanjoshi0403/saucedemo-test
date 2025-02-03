@@ -12,7 +12,7 @@ This test suite automates key user workflows for the [Sauce Demo](https://www.sa
 ### Installation Steps
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/pawanjoshi0403/saucedemo-test.git
    cd saucedemo-tests
    
 2. **Create virtual environment**
